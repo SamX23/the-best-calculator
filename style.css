@@ -1,0 +1,16 @@
+body {
+  margin-top: 1rem;
+  margin-left: 1rem;
+  font-family: "Times New Roman", Times, serif;
+}
+
+body button {
+  margin-left: 1rem;
+  background-color: #dadada !important;
+  border-radius: 0.2rem;
+  width: 7rem;
+}
+
+body div {
+  margin-top: 1rem;
+}
